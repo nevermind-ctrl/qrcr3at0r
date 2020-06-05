@@ -7,4 +7,4 @@ Download python 3.8.3 (optimal version) [from official website](https://www.pyth
 pip install qrcode
 pip install pillow
 ```
-after this you can successufuly run your code
+after this you can successufuly run my code
